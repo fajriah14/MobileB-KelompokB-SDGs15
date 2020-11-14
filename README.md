@@ -8,8 +8,10 @@ aplikasi "SpidyLib" adalah alat batu bagi pengamat laba-laba dalam mengumpulkan,
 - Dictionary spesies laba-laba
 
 ## kelompok_b_sdgs_15
-- Chulsum Alimah N.    (182410103084)
-- 
+- Chulsum Alimah N.             (182410103084)
+- Mohammad Abuemas Rizq Wijaya  (182410103087)
+-
+-
 
 ## progres
 buat bottom NavBar
