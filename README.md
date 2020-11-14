@@ -10,8 +10,8 @@ aplikasi "SpidyLib" adalah alat batu bagi pengamat laba-laba dalam mengumpulkan,
 ## kelompok_b_sdgs_15
 - Chulsum Alimah N.             (182410103084)
 - Mohammad Abuemas Rizq Wijaya  (182410103087)
-- Yunand Nidzar R.A ( 182410103061 )
--
+- Yunand Nidzar R.A.            ( 182410103061 )
+- Fajriah Ikawati Valentina      (182410103013)
 
 ## progres
 buat bottom NavBar
